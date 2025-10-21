@@ -1,7 +1,6 @@
- //Crie um programa que leia um número inteiro e diga se ele é par ou ímpar.
 programa {
   funcao inicio() {
-   
+    //Leia um número inteiro e diga se ele é par ou ímpar.
    inteiro numero
    escreva("Digite um número inteiro: ")
    leia(numero)
